@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a 22-year-old computer science major in my final year at university, currently immersed in my capstone project. Passionate about all things programming, development, and technology, I identify as a full-stack web developer. Proficient in numerous programming languages and equipped with skills in design patterns, SOLID principles, algorithms, and more.
+I'm a 22-year-old computer science graduate, currently working on making my capstone project a real website to deploy. Passionate about all things programming, development, and technology, I identify as a full-stack web developer. Proficient in numerous programming languages and equipped with skills in design patterns, SOLID principles, algorithms, and more.
 
 🔭 I’m currently working on: My capstone project and enhancing my full-stack development skills.
 
