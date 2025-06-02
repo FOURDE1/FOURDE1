@@ -1,18 +1,30 @@
 ### Hi there 👋
 
-I'm a 22-year-old computer science graduate, currently working on making my capstone project a real website to deploy. Passionate about all things programming, development, and technology, I identify as a full-stack web developer. Proficient in numerous programming languages and equipped with skills in design patterns, SOLID principles, algorithms, and more.
+I'm a 23-year-old Computer Science graduate, passionate about development, technology, and turning ideas into real applications. I currently work at two companies:
 
-🔭 I’m currently working on: My capstone project and enhancing my full-stack development skills.
+- 👨‍💻 **Full-Stack Developer at ReadyLoans** – building robust web applications and currently developing an automated AI system to streamline internal workflows.
+- 📱 **Mobile Developer at Nuwatt** – working on a new Flutter app with a focus on cross-platform performance and modern UI/UX.
 
-🌱 I’m currently learning: Always striving to stay updated with the latest technologies and industry best practices.
+✅ **Capstone Project Complete**  
+My capstone project is now fully developed and deployed, marking a personal milestone in delivering real-world functionality.
 
-👯 I’m looking to collaborate on: Exciting projects that challenge and push the boundaries of my skill set.
+🧠 **Always Learning**  
+I'm committed to staying updated with the latest in tech, from new frameworks to best practices in clean architecture, scalability, and performance.
 
-💬 Ask me about: Full-stack development, design patterns, or anything related to programming and technology.
+🤝 **Open to Collaboration**  
+I'm always interested in challenging full-stack or mobile projects that push the boundaries of what I know and help me grow.
 
-📫 How to reach me: Hossienraad321@gmail.com
+💬 **Ask Me About**  
+- Full-stack development (JavaScript/TypeScript, React, Node.js, Express, MongoDB, etc.)  
+- Mobile development (Flutter, Dart)  
+- Clean code, design patterns, SOLID principles, and software architecture  
+- AI automation systems and integration into production environments
 
-⚡ Fun fact: I aspire to be a highly skilled developer, creating amazing projects, and collaborating with individuals worldwide.
+📫 **How to Reach Me**  
+Email: [Hossienraad321@gmail.com](mailto:Hossienraad321@gmail.com)
+
+⚡ **Fun Fact**  
+I’m driven by a passion to build amazing things, grow as a developer, and collaborate with talented people around the world.
 
 <!--
 **YourGitHubUsername/YourGitHubUsername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
