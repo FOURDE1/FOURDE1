@@ -44,9 +44,7 @@ I am a software engineer who turns ideas into secure and scalable products. I le
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FOURDE1&show_icons=true&include_all_commits=true&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FOURDE1&layout=compact&hide_border=true)  
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=FOURDE1&theme=github-compact)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=FOURDE1&theme=github-compact&from=2024-01-01&to=2025-12-31)
 
 ## Contact Information
 
@@ -56,4 +54,4 @@ I am a software engineer who turns ideas into secure and scalable products. I le
 
 ## Collaboration
 
-I am open to collaborating on innovative projects, contributing to open source, or discussing system design and architecture.  If you are building something interesting or need help scaling your product, feel free to get in touch.
+I am open to collaborating on innovative projects, contributing to open source, or discussing system design and architecture. If you are building something interesting or need help scaling your product, feel free to get in touch.
