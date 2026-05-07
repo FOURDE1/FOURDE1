@@ -1,57 +1,98 @@
-# Hussein Raad
+<div align="center">
 
-Team Lead | Full-Stack & Mobile Developer | System Designer
+<!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hussein%20Raad%20|%20FOURDE1&fontSize=42&fontAlignY=32&desc=Team%20Lead%20•%20Full‑Stack%20Developer&descSize=16&descAlignY=51" />
+</div>
 
-![Typing Animation](https://readme-typing-svg.demolab.com/?lines=Team+Lead+%26+Full-Stack+Developer;Architect+of+AI-Driven+Systems;Remote+Collaboration+Expert&font=default&pause=1000&color=3b82f6&center=true)
+### WHO AM I?
 
-## About Me
+I’m **Hussein Raad** — a full‑stack developer, team lead and builder of web, mobile and cloud products.
 
-I am a software engineer who turns ideas into secure and scalable products. I lead the development of the Ready Loans AI-driven lead distribution platform and work on Skillement and NuWatt projects. I thrive in remote environments, use **AWS**, **supabase**, **Next.js**, **NestJS** and **Flutter**, and design systems that are user-friendly and cost-effective.
+- I lead cross‑functional teams at Ready Loans, Skillement and NuWatt, delivering AI‑powered lead distribution and solar monitoring platforms.
+- I design and implement scalable and cost‑effective systems using AWS, NestJS, Next.js, FastAPI, Flutter and more.
+- I mentor engineers and use automation and AI responsibly to accelerate development.
 
-## Areas of Focus
+---
 
- - Leading remote engineering teams and designing reliable architectures
- - Building web and mobile applications (Next.js, NestJS, Flutter)
- - Automating workflows with **n8n** and **AWS Lambda**
- - Deploying systems on **AWS**, **Railway**, **Supabase** and **Vercel**
- - Promoting clean code, SOLID principles and best practices
- - Using prompt engineering and AI tools to speed up development
+## ACHIEVEMENTS & MILESTONES
 
-## Tech Stack
+<div align="center">
 
-**Languages:** Java, TypeScript/JavaScript, Python, Dart, SQL, C#  
-**Frontend:** Next.js, React, Tailwind CSS  
-**Backend:** NestJS, Node.js, Express, FastAPI, Django, MVC, ASP.NET, .NET Core  
-**Mobile:** Flutter (MVVM, Riverpod), Firebase/FCM, WebSockets  
-**Cloud & DevOps:** AWS (EC2, Lambda, API Gateway, RDS, DynamoDB, Cognito), Railway, Supabase, Vercel, Docker  
-**Databases:** PostgreSQL, DynamoDB, Supabase DB, Redis  
-**Tools & Services:** n8n, Twilio, GitHub Actions, Load balancers, CI/CD
+| Metric | Achievement | Status |
+|:-----:|:-----------:|:------:|
+| **Projects Delivered** | 10+ production deployments | ![](https://img.shields.io/badge/-Completed-success?style=flat-square) |
+| **Teams Led** | 3 cross‑functional teams | ![](https://img.shields.io/badge/-Ongoing-blue?style=flat-square) |
+| **AI‑Driven Systems** | Lead distribution & solar monitoring | ![](https://img.shields.io/badge/-In%20progress-yellow?style=flat-square) |
+| **Contributions (2024–2025)** | Active development | ![](https://img.shields.io/badge/-Active-blue?style=flat-square) |
 
-## Current Projects
+</div>
 
- - **Ready Loans AI Distribution System:** Designing a CRM and lead routing engine using Java, AWS CDK, OpenSearch and n8n.
- - **Skillement (Aivros):** Leading development of an ed-tech platform, including system redesign and mentoring engineers.
- - **NuWatt Platform:** Building an AI-powered monitoring and management app for solar systems, along with a mobile app, landing page and installer portal using Flutter, Next.js and NestJS.
- - **LeadCreditPro.com & ScamsChecker.co:** Founder and developer of SaaS products for credit lead management and scam detection.
+---
 
-## Achievements & Milestones
+## PROFESSIONAL TECH STACK
 
-| Category       | Milestone | Description                                                                                                           |
-|---------------|----------|-----------------------------------------------------------------------------------------------------------------------|
-| Experience    | 3+ years | Building web, mobile and cloud applications and managing remote teams                                                  |
-| Major systems | 5    | AI-driven lead distribution platform, ed-tech platform, solar installer portal, municipality management system and SaaS products |
-| Technologies  | 20+ tools | Proficient in AWS, Next.js, NestJS, Flutter, supabase, Railway and more                                              |
+<div align="center">
 
-## GitHub Statistics
+### Programming Languages
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=FOURDE1&theme=github-compact&from=2024-01-01&to=2025-12-31)
+<img src="https://skillicons.dev/icons?i=java,ts,js,py,dart,csharp&theme=dark" height="50" />
 
-## Contact Information
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-- **LinkedIn:** https://linkedin.com/in/hussein-raad-326a71227  
-- **Portfolio / Projects:** https://LeadCreditPro.com | https://ScamsChecker.co  
-- **Email:** hossienraad321@gmail.com
+### Backend & Cloud
 
-## Collaboration
+<img src="https://skillicons.dev/icons?i=nestjs,nextjs,fastapi,django,dotnet,aws,redis&theme=dark" height="50" />
 
-I am open to collaborating on innovative projects, contributing to open source, or discussing system design and architecture. If you are building something interesting or need help scaling your product, feel free to get in touch.
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Frontend & Mobile
+
+<img src="https://skillicons.dev/icons?i=react,flutter,tailwind&theme=dark" height="50" />
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0FA9E6?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Databases & Storage
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase&theme=dark" height="50" />
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+</div>
+
+---
+
+## GITHUB STATISTICS
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=FOURDE1&theme=github-compact&custom_title=Hussein%27s%20Contribution%20Graph&radius=4&hide_border=true&area=true&from=2024-01-01&to=2025-12-31)
+
+---
+
+## Featured Projects
+
+- **Ready Loans AI Distribution System** – Led the design and development of an AI‑driven lead distribution system for loan applications, including automation workflows using n8n and AWS.
+- **Skillement – Aivros Platform** – Built and redesigned a cloud‑hosted learning management system with full automation and real‑time collaboration.
+- **NuWatt Solar Monitoring** – Developed an AI‑powered monitoring and management platform and mobile app for solar systems.
+- **Side Projects** – Applications for municipality citizen management and personal SaaS tools (LeadCreditPro.com, ScamsChecker.co).
+
+---
+
+<div align="center">
+
+![Arcade Game](game.gif)
+
+</div>
