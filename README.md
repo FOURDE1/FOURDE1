@@ -76,11 +76,9 @@ I’m **Hussein Raad** — a full‑stack developer, team lead and builder of w
 
 ---
 
-## GITHUB STATISTICS
+#### GitHub Statistics
+I maintain **20+ public repositories** and actively contribute to open-source projects. In 2024-2025 alone, I pushed hundreds of commits across languages like Java, TypeScript, Python, and C, and frameworks such as NestJS, Next.js, FastAPI and Django. My work spans web, mobile and cloud development.
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=FOURDE1&theme=github-compact&custom_title=Hussein%27s%20Contribution%20Graph&radius=4&hide_border=true&area=true&from=2024-01-01&to=2025-12-31)
-
----
 
 ## Featured Projects
 
